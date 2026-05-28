@@ -49,7 +49,7 @@ Even though we are just "two high school students," our passion for *Cyber Secur
 
 ## 🛠️ Tech Stack & Focus
 <p align="center">
-  <img src="https://img.shields.io/badge/-Backend%20Development-black?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Exploits%20Developers-black?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Vulnerability%20Research-red?style=for-the-badge&logo=kali-linux&logoColor=white">
   <img src="https://img.shields.io/badge/-Open%20Source-green?style=for-the-badge&logo=github&logoColor=white">
 </p>
